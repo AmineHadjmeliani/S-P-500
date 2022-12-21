@@ -1,0 +1,5 @@
+streamlit==1.16.0
+pandas==1.5.2
+matplotlib==3.5.2
+yfinance==0.1.87
+base64==1.21.5
